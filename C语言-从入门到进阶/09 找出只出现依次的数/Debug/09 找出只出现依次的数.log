@@ -1,0 +1,13 @@
+﻿生成启动时间为 2023/5/28 17:20:54。
+     1>项目“C:\Users\Administrator\Desktop\C++\C语言-从入门到进阶\09 找出只出现依次的数\09 找出只出现依次的数.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "找出只出现依次的数.cpp"
+         找出只出现依次的数.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\C++\C语言-从入门到进阶\Debug\09 找出只出现依次的数.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Desktop\C++\C语言-从入门到进阶\Debug\09 找出只出现依次的数.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\C++\C语言-从入门到进阶\Debug\09 找出只出现依次的数.lib" /MACHINE:X86 "Debug\找出只出现依次的数.obj"
+         09 找出只出现依次的数.vcxproj -> C:\Users\Administrator\Desktop\C++\C语言-从入门到进阶\Debug\09 找出只出现依次的数.exe
+     1>已完成生成项目“C:\Users\Administrator\Desktop\C++\C语言-从入门到进阶\09 找出只出现依次的数\09 找出只出现依次的数.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.69
